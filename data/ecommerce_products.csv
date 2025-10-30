@@ -1,0 +1,21 @@
+product,product_name,price,category,image
+P1,Wireless Earbuds,2499,Audio,P1.jpg
+P2,Smartphone Case,499,Mobile,P2.jpg
+P3,Bluetooth Speaker,1999,Audio,P3.jpg
+P4,LED Monitor,8999,Electronics,P4.jpg
+P5,Gaming Keyboard,2999,Gaming,P5.jpg
+P6,USB-C Charger,799,Electronics,P6.jpg
+P7,Smartwatch,4999,Wearables,P7.jpg
+P8,Laptop Sleeve,1099,Accessories,P8.jpg
+P9,Portable SSD,4599,Storage,P9.jpg
+P10,Noise Cancelling Headphones,5499,Audio,P10.jpg
+P11,Fitness Tracker,2999,Wearables,P11.jpg
+P12,4K TV,34999,Electronics,P12.jpg
+P13,Mechanical Mouse,1499,Gaming,P13.jpg
+P14,Power Bank,1199,Accessories,P14.jpg
+P15,VR Headset,8999,Gaming,P15.jpg
+P16,Portable Projector,15999,Electronics,P16.jpg
+P17,Tablet Stand,699,Accessories,P17.jpg
+P18,Digital Camera,25999,Electronics,P18.jpg
+P19,Gaming Chair,7999,Gaming,P19.jpg
+P20,Smart Home Hub,5999,Electronics,P20.jpg

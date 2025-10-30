@@ -1,0 +1,7 @@
+from recommend import hybrid_recommend
+
+user_id = "U10"
+results = hybrid_recommend(user_id)
+
+print(f"\nTop 5 Product Recommendations for {user_id}:\n")
+print(results)
